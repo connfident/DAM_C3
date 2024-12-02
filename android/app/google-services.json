@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703500243937",
+    "project_id": "dam-certamen-33",
+    "storage_bucket": "dam-certamen-33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703500243937:android:1914e9052b0306800878a0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703500243937-pc65nv3n91jpnkth40m136prnheiokim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "3e60f88b98924bcf8fe8019881913e7dd0345b4e"
+          }
+        },
+        {
+          "client_id": "703500243937-56ic6p8p90llogaakscdqovnso5p8mpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01MWidtzdvabBmIxXHDY0zrl8CQOx7jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703500243937-56ic6p8p90llogaakscdqovnso5p8mpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
