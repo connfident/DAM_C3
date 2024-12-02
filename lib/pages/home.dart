@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 25, 0, 255),
-        title: const Text('Recetario', style: TextStyle(color: Colors.white)),
+        title: const Text('Taste Hub', style: TextStyle(color: Colors.white)),
         leading: Icon(MdiIcons.firebase, color: Colors.white),
         actions: [
           Builder(
