@@ -11,7 +11,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 class HomePage extends StatelessWidget {
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final AuthService _authService = AuthService();
-
   HomePage({super.key});
 
   @override
